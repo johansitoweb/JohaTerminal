@@ -1,0 +1,32 @@
+body{
+    background-image: url("fondo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.esw{
+    border-radius: 4px;
+    border: none;
+    width:780px;
+    height:490px;
+    background-color: black;
+}
+
+p{
+    color: rgb(5, 94, 24);
+    font-size: 12px;
+}
+
+.press-start-2p-regular {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.as{
+    padding-left: 250px;
+    padding-right: 250px;
+} 
+
+h6,h5,h4{
+    color: rgba(255, 0, 0, 0.539);
+}
